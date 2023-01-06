@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+
+html {
+    max-width: 1024px;
+    max-height: 768px;
+}
+
+.cabecalho {
+    display: flex;
+}
+
+.cabecalho_logo {
+    width: 25%;
+    height: 35%;
+}
+
+.cabecalho_banner {
+    width: 75%;
+    height: 35%;
+    background-color: #113c64;
+}
